@@ -1,4 +1,4 @@
-# simplesteganography
+# pysteg
 A very basic steganography program I wrote in Python for fun :) 
 
 Uses LSB (Least-Significant-Bits) to encode your password into an image. 
